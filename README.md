@@ -43,6 +43,6 @@ In this exercise, you will try out the CSS Cross Fade function, which allows you
 When you load the page in Firefox, you should see a single background image. In all browsers that support cross fade, you should see the blended images.
 
 ## Stage 3 - Cross browser testing
-If you have been working on your portfolio site, check your CSS to see if you have used any properties or features that may not work in some browsers. You can also do this for your assessment 1 website (remember we are only testing it in Chrome so don't panic if you do have compatability issues!).
+If you have been working on your portfolio site, check your CSS to see if you have used any properties or features that may not work in some browsers. You can also do this for your assessment 1 website (remember we are only using Chrome for marking so don't panic if you do have compatability issues in other browsers!).
 
 If you've only used CSS we've covered in this module, it is likely that your site will render without problems. However, it is a good idea to test it on at least three different browsers to see if you have any layout issues due to how different browsers handle default styling. 
